@@ -1,0 +1,58 @@
+[
+    {
+        "id": "d2d2e3a7-29c1-4f15-a9b3-9c8b5b6c6a1a",
+        "name": "Australia",
+        "continent": "Oceania",
+        "flag": "images/australia.png",
+        "rank": 4
+    },
+    {
+        "id": "d3f462f6-2df4-45cb-92f4-0d6e914fd4ef",
+        "name": "England",
+        "continent": "Europe",
+        "flag": "images/england.png",
+        "rank": 5
+    },
+    {
+        "id": "8a8a8833-02f3-4d48-b1eb-77c1f028f7a4",
+        "name": "Namibia",
+        "continent": "Africa",
+        "flag": "images/namibia.png",
+        "rank": 8
+    },
+    {
+        "id": "f37c6d76-6b2f-4c6a-9b5c-604c648b69e",
+        "name": "New Zealand",
+        "continent": "Oceania",
+        "flag": "images/newzealand.png",
+        "rank": 3
+    },
+    {
+        "id": "8bbdb5cb-75d7-4c73-878a-58025acb6880",
+        "name": "Pakistan",
+        "continent": "Asia",
+        "flag": "images/pakistan.png",
+        "rank": 6
+    },
+    {
+        "id": "0cc3d2a3-577b-4c9b-bc27-dbd35ff62a61",
+        "name": "Zimbabwe",
+        "continent": "Africa",
+        "flag": "images/zimbabwe.png",
+        "rank": 7
+    },
+    {
+        "id": "7e58399d-5cb4-489f-b24b-6c9063cf29d7",
+        "name": "South Africa",
+        "continent": "Africa",
+        "flag": "images/southafrica.png",
+        "rank": 2
+    },
+    {
+        "id": "7b91b2f6-6c68-4a48-a8e8-5a5d5a0d0c45",
+        "name": "India",
+        "continent": "Asia",
+        "flag": "images/india.png",
+        "rank": 1
+    }
+]
